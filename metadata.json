@@ -1,0 +1,8 @@
+{
+  "name": "LinguaTouch - Interactive Keyboard & Voice Language Tutor",
+  "description": "Master foreign languages with tactile keyboard interaction, native text-to-speech, real-time phonetic pronunciation feedback, and customizable vocabulary drills.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
